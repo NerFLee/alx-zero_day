@@ -1,3 +1,4 @@
-git pull origin main
-git commit -am "Readme.md updated"
-git push
+git fetch -all
+git pull origin master
+git commit -am "README.md updated"
+git pull
